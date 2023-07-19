@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\bin\Debug\net6.0\Fiorella.Persistence.deps.json
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\bin\Debug\net6.0\Fiorella.Persistence.dll
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\bin\Debug\net6.0\Fiorella.Persistence.pdb
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\bin\Debug\net6.0\Fiorella.Aplication.dll
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\bin\Debug\net6.0\Fiorella.Domain.dll
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\bin\Debug\net6.0\Fiorella.Aplication.pdb
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\bin\Debug\net6.0\Fiorella.Domain.pdb
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.AssemblyInfo.cs
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.csproj.CopyComplete
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.dll
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\refint\Fiorella.Persistence.dll
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\Fiorella.Persistence.pdb
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Infrastrecture\Fiorella.Presistence\obj\Debug\net6.0\ref\Fiorella.Persistence.dll
