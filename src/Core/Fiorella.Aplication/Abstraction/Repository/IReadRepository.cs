@@ -15,5 +15,5 @@ public interface IReadRepository<T>:IRepository<T> where T :BaseEntity, new()
 	IQueryable<T> GetAllExpression(Expression<Func<T, bool>> expression, int take, int skip, bool isTracking = true, params string[] includes);
 	IQueryable<T> GetAllExpressionOrderBy(Expression<Func<T, bool>> expression, int take, int skip, Expression<Func<T, object>> expressionOrder, bool isordered = true, bool isTracking = true, params string[] includes);
 	Task<T> GetByIdAsync(Guid id);
-	Task<T> GetByExpression(Expression<Func<T, bool>> expression, bool isTracking = true);
+	Task<T> GetByExpressionAsync(Expression<Func<T, bool>> expression, bool isTracking = true);
 }

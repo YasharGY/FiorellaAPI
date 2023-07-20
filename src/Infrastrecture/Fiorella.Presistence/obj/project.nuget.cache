@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+pLvHFuP+V6XEjJrRhUUV+QHyIPMc4bcbshSi/6DYU4O9d1+uYBxX1H4UjvG9KrC8cAPYondzRCtBMCB6XVOlQ==",
+  "dgSpecHash": "pT5mk/l0bAjd/FED4uEvIGZoBA4FL45tTQX9D0uYj1nDKFCcxi1cbBgrtAoDY+BtcwypQpKx1+HN59uUifh1tQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\P233\\P233\\Fiorella\\src\\Infrastrecture\\Fiorella.Presistence\\Fiorella.Persistence.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.20\\microsoft.entityframeworkcore.6.0.20.nupkg.sha512",
