@@ -77,3 +77,4 @@ C:\Users\HP\Desktop\P233\P233\Fiorella\src\Presentation\Fiorella.API\bin\Debug\n
 C:\Users\HP\Desktop\P233\P233\Fiorella\src\Presentation\Fiorella.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\HP\Desktop\P233\P233\Fiorella\src\Presentation\Fiorella.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\HP\Desktop\P233\P233\Fiorella\src\Presentation\Fiorella.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\HP\Desktop\P233\P233\Fiorella\src\Presentation\Fiorella.API\bin\Debug\net6.0\Newtonsoft.Json.dll

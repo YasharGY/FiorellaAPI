@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "twQotoB3q8yOuxjbMG2cZdxXT7B8u30eNOQSa2zN/9LabwHUm1e8UCr8TkenVE3u9/X8ya1LOCty9KKw49EGAg==",
+  "dgSpecHash": "ERYjHre1RpsHH15tLp4rskI8b5xinCF7uqV6xnNTygMGtYAKJteD8BCaN0MmiQUg41Jh6nG0IVB44z9ZTWN7fA==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\P233\\P233\\Fiorella\\src\\Presentation\\Fiorella.API\\Fiorella.API.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,7 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

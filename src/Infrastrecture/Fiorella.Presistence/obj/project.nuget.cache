@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pT5mk/l0bAjd/FED4uEvIGZoBA4FL45tTQX9D0uYj1nDKFCcxi1cbBgrtAoDY+BtcwypQpKx1+HN59uUifh1tQ==",
+  "dgSpecHash": "7lX36cgxMu561jkdCXkFNA0sDE0vQaHtgmxyxKdGJikY7oB5Rt+oGFWDr5YzxCJEBKgQlFkBOdpQWaCOPgp1Rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\HP\\Desktop\\P233\\P233\\Fiorella\\src\\Infrastrecture\\Fiorella.Presistence\\Fiorella.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

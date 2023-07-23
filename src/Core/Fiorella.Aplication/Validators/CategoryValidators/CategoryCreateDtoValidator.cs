@@ -12,7 +12,7 @@ public class CategoryCreateDtoValidator:AbstractValidator<CategoryCreateDto>
 {
 	public CategoryCreateDtoValidator()
 	{
-		RuleFor(x => x.name).NotEmpty().MaximumLength(30);
-		RuleFor(x => x.description).NotEmpty().MaximumLength(350);
+		RuleFor(c => c.name).NotEmpty().MaximumLength(30);
+		RuleFor(c => c.description).NotNull().NotEmpty().MaximumLength(350);
 	}
 }

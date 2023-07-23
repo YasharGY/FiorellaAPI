@@ -17,12 +17,11 @@ public class AppDbContext:DbContext
 	}
 
 	public DbSet<Category> Categories { get; set; } = null;
-	public DbSet<Slider> Sliders { get; set; } = null;
+
 
 	protected override void OnModelCreating(ModelBuilder modelBuilder)
 	{
 		modelBuilder.ApplyConfigurationsFromAssembly(typeof(CategoryConfiguration).Assembly);
-		modelBuilder.ApplyConfigurationsFromAssembly(typeof(SliderConfiguration).Assembly);
 		base.OnModelCreating(modelBuilder);
 	}
 }

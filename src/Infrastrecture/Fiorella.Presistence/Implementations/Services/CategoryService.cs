@@ -4,6 +4,7 @@ using Fiorella.Aplication.Abstraction.Services;
 using Fiorella.Aplication.DTOs.CategoryDTOs;
 using Fiorella.Domain.Entities;
 using Fiorella.Persistence.Exceptions;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,21 +30,35 @@ public class CategoryService : ICategoryService
 
 	public async Task CreateAsync(CategoryCreateDto categoryCreateDto)
 	{
-		 Category dbCategory = await _readRepository.GetByExpressionAsync(c=>c.Name.ToLower().Equals(categoryCreateDto.name.ToLower()));
-		if (dbCategory is not null) throw new DublicatedException("Dublicated Category name!");
-		Category newCategory = _mapper.Map<Category>(categoryCreateDto);
+		 var dbCategory = await _readRepository.GetByExpressionAsync(c=>c.Name.ToLower().Equals(categoryCreateDto.name.ToLower()));
+		if (dbCategory is not null) 
+		{
+
+			throw new DublicatedException("Dublicated Category name!");
+
+		} 
+		
+		 var newCategory = _mapper.Map<Category>(categoryCreateDto);
 		await _writeRepository.AddAsync(newCategory);
 		await _writeRepository.SaveChangeAsync();
 		
 	}
 
-	public Task<List<CategoryGetDto>> GetAllAsync()
+	public async Task<List<CategoryGetDto>> GetAllAsync()
 	{
-		throw new NotImplementedException();
+		var categories = await _readRepository.GetAll().ToListAsync();
+		List<CategoryGetDto> list= _mapper.Map<List<CategoryGetDto>>(categories);
+		return list;
 	}
 
-	public Task<CategoryGetDto> GetByIdAsync(Guid id)
+	public async Task<CategoryGetDto> GetByIdAsync(Guid id)
 	{
-		throw new NotImplementedException();
+		Category categoryDb = await _readRepository.GetByIdAsync(id);
+		if (categoryDb is null)
+		{
+			throw new NotFoundException("Category not found!");
+			
+		}
+		return _mapper.Map<CategoryGetDto>(categoryDb);
 	}
 }
